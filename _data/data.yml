@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Meegada Mahesh
+    tagline: Backend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: maheshswamymeegada@gmail.com
+    phone: 703 627 8291
+    # website: blog.webjeda.com #do not add http://
+    linkedin: mahesh-meegada
+    github: Mahesh_279
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@mahesh_279'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,46 +29,31 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Telugu
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Reading
         link:
 
       - item: Cooking
         link:
 
 career-profile:
-    title: Career Profile
+    title: Software Developer
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Started carrer with learning and researching on blockchain and by creating
+      Small Pocs for almost 1.6 years. Joined as a Backend developer in Reliance jio
+      learnt programming in Node js and Golang, also gained knowledge in Docker and AWS
+      for deployment.In detail research in content delivery networks and distributed data
+      mechanisms using torrent protocols. Total Experience is 3.8 years till date.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.tech in Information Technology
+      university: National Institute of Technology, Kurukshetra
+      time: 2012 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,43 +63,26 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Backend Developer (Assistant Manager)
+      time: 2019 - Present
+      company: Reliance Jio, Hyderabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Major responsibilities is to create apis required for the application
+        in Node js, modifying code in golang for torrent based application which
+        further leads to content delivery in distributed manner. Experince in Deployment 
+        in production and other developement environments using docker in AWS and Azure Machines.
+        Working Knowledge in Redis, Rabbitmq, basic knowledge in Kubernetes and Kafka. Db Stack contains
+        Mongodb and Mysql. Debugging application (Node, Golang, Reactjs). Minor Work done in 
+        open source blockchains for checking compatibility to our application.
+        
+    - role: Blockchain Developer
+      time: 2017 - 2019
+      company: (Digital Lync,Eleven01), Hyderabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked on Quorum and Ethereum Blockchain, creating Apis in Node js.
+        Research in Dynamic Consensus algorithms to integrate in quorum
+        Major work based on blockchain research, implementing pocs, Hyperledger
+        Fabric, Solidity, Ethereum.
 projects:
     title: Projects
     intro: >
